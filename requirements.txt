@@ -2,3 +2,7 @@ psycopg2-binary
 scikit-learn
 pandas
 joblib
+boto3==1.26.8
+mlflow==1.30.0
+Setuptools
+fastapi[all]
